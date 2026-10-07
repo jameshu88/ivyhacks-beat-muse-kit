@@ -1,8 +1,8 @@
-Reminder: it's this weekend. New: you can now join remotely from MIT or Harvard.
+Reminder: it's this weekend. New: you can now join remotely.
 
-IvyHacks: Beat Muse. Join us at Penn, or build remotely from MIT and Harvard. Build your 24/7 AI agent, with tokens and architecture on us. Best build wins $4,000.
+IvyHacks: Beat Muse. Join us at Penn, or build remotely. Build your 24/7 AI agent, with tokens and architecture on us. Best build wins $4,000.
 
-- Remote OK from MIT or Harvard
+- Remote OK. Join in person or remotely
 - Winners picked on virality and real users over one week
 - Sat Oct 10 – Sun Oct 11
 - University of Pennsylvania
@@ -13,4 +13,4 @@ Register: https://luma.com/d60fjmjy
 
 Sponsored by AI@Penn, WUEC, WCA, Chert (YC P26), Seraphim Labs.
 
-Know someone at MIT, Harvard or Penn who builds? Forward this.
+Know someone who builds? Forward this.
